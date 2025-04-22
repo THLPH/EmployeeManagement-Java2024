@@ -17,8 +17,8 @@ public class EmpManagement extends Application
     // Connor Tran - Software Development
     // WILL NOT WORK WITHOUT PROPER SQL DB SETUP
     private static final String DB_URL = "jdbc:mysql://localhost:3306/employeeData"; // Put db link here
-    private static final String USER = "connor"; // Put Username here
-    private static final String PASS = "tran"; // Put Password here
+    private static final String USER = "thlph"; // Put Username here
+    private static final String PASS = "1234"; // Put Password here
 
     public static void main(String[] args)
     {
